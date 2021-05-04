@@ -1,0 +1,16 @@
+//Templete String
+
+ej de variables con texto: (`Mi nombre es ${nombre} ${apeellido}`)
+
+El triple igual (===) compara las variables
+
+
+                  ESTRUCTURA DE CONTROL
+// If...else
+
+/*
+si se cumple la condicion
+    entonces realizar la accion
+si no se cumple la condicion
+    entonces hacer otra cosa
+*/
