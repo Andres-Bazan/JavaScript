@@ -36,3 +36,9 @@ console.log(alumnos.includes("Gabriela"))
 //eliminar un elemento mediante su posicion
 let pos = 1
 alumnos.splice(pos,1)
+
+
+// ----------------------------------------------------------------
+
+
+
