@@ -1,4 +1,4 @@
-let numero1 = 2 ;
+let numero1 = 4 ;
 
 let numero2 = 15 ;
 
