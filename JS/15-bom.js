@@ -1,4 +1,7 @@
 //Browser Object Model (BOM)
+/* 
+Si tienen una carpeta, el BOM seria la carpeta y el DOM la hoja
+*/
 
 //window
 /* 

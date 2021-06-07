@@ -28,8 +28,6 @@ for (i = 0; i < 3; i++) {
   let nombre = prompt(`Ingrese el nombre del producto Nº${i + 1}`);
   let precio = prompt("Ingrese el precio del producto");
   let codigo = prompt("Ingrese el codigo del producto");
-//   let llamar = new Producto(nombre, precio, codigo);
-//   llamar.imprimeDatos();
   supermercado.push( new Producto(nombre, precio, codigo));
   supermercado[i].imprimeDatos();
 }
